@@ -1,0 +1,28 @@
+[submodule "bank-payment"]
+	path = bank-payment
+	url = https://github.com/OCA/bank-payment.git
+	branch = 11.0
+[submodule "l10n-spain"]
+	path = l10n-spain
+	url = https://github.com/Infinityloopsistemas/l10n-spain.git
+	branch = 11.0
+[submodule "account-closing"]
+	path = account-closing
+	url = https://github.com/OCA/account-closing.git
+	branch = 11.0
+[submodule "account-financial-reporting"]
+	path = account-financial-reporting
+	url = https://github.com/OCA/account-financial-reporting.git
+	branch = 11.0
+[submodule "account-financial-tools"]
+	path = account-financial-tools
+	url = https://github.com/OCA/account-financial-tools.git
+	branch = 11.0
+[submodule "partner-contact"]
+	path = partner-contact
+	url = https://github.com/OCA/partner-contact.git
+	branch = 11.0
+[submodule "server-tools"]
+	path = server-tools
+	url = https://github.com/OCA/server-tools.git
+	branch = 11.0
